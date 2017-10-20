@@ -1,0 +1,1 @@
+"use strict";function app(s,t){return s+t}alert("sdfsdf"),console.log("sdfs");
